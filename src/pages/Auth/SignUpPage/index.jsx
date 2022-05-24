@@ -4,7 +4,7 @@ import { Button } from 'src/components';
 export const SignUpPage = () => {
   return (
     <div>
-      <Button btnType="" />
+      <Button btnType="primary" text="Click Me" />
     </div>
   );
 };
